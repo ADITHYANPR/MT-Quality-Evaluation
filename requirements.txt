@@ -1,0 +1,12 @@
+﻿pandas==2.3.2
+numpy==2.3.3
+pyarrow==23.0.1
+matplotlib==3.10.8
+seaborn==0.13.2
+streamlit==1.55.0
+plotly
+sentence-transformers
+transformers==4.56.2
+torch==2.8.0
+scikit-learn==1.7.2
+nltk
